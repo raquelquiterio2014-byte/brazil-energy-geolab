@@ -1,0 +1,10 @@
+{
+  "title": "Brazil Energy GeoLab",
+  "scope": null,
+  "port": 8002,
+  "center": [
+    -52,
+    -14
+  ],
+  "zoom": 3
+}
